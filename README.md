@@ -36,4 +36,4 @@ After the above mentioned libraries are installed successfully, we will proceed 
 
 Abhishek Kumar Sinha - [@_abhisheksinha](https://twitter.com/_abhisheksinha) - email4abhi@gmail.com
 
-Project Link: [https://github.com/AbhishekKumarSinha/ocr](https://github.com/yAbhishekKumarSinha/ocr)
+Project Link: [https://github.com/AbhishekKumarSinha/ocr](https://github.com/AbhishekKumarSinha/ocr)
