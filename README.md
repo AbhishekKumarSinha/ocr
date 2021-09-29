@@ -24,7 +24,7 @@ sudo apt install -y pkg-config
 sudo apt install -y libsdl-pango-dev
 sudo apt install -y libicu-dev
 sudo apt install -y libcairo2-dev
-sudo apt install bc
+sudo apt install -y bc
 ```
 After the above mentioned libraries are installed successfully, we will proceed to install Tesseract.
 
@@ -36,4 +36,4 @@ After the above mentioned libraries are installed successfully, we will proceed 
 
 Abhishek Kumar Sinha - [@_abhisheksinha](https://twitter.com/_abhisheksinha) - email4abhi@gmail.com
 
-Project Link: [https://github.com/AbhishekKumarSinha/cpp](https://github.com/yAbhishekKumarSinha/ocr)
+Project Link: [https://github.com/AbhishekKumarSinha/ocr](https://github.com/yAbhishekKumarSinha/ocr)
