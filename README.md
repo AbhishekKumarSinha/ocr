@@ -55,6 +55,20 @@ make training
 sudo make training-install
 ```
 
+If all the above commands were executed successfully, it should have install the tesseract-4.1.1 on the system.
+
+This can be checked using
+```bash
+tesseract --version
+```
+Above command will display something like :
+```bash
+tesseract 4.1.1
+ leptonica-1.79.0
+  libgif 5.1.4 : libjpeg 8d (libjpeg-turbo 2.0.3) : libpng 1.6.37 : libtiff 4.1.0 : zlib 1.2.11 : libwebp 0.6.1 : libopenjp2 2.3.1
+ Found AVX
+ Found SSE
+```
 
 
 
