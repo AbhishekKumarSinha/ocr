@@ -45,7 +45,15 @@ Go inside tesseract-4.1.1 folder using:
 cd tesseract-4.1.1
 ```
 And, then run below commands to build tesseract-4.1.1.
-
+```bash
+./autogen.sh
+./configure
+make
+sudo make install
+sudo ldconfig
+make training
+sudo make training-install
+```
 
 
 
