@@ -2,8 +2,8 @@
 OCR Example Implementation using Tesseract
 
 ### Environment
-- OS - Ubuntu 20.04 LTS
-- Compiler - g++
+- OS: Ubuntu 20.04 LTS
+- Compiler: g++
 - OCR Engine: Tesseract 4.1.1
 
 ### Steps to setup development environment
@@ -27,6 +27,9 @@ sudo apt install -y libcairo2-dev
 sudo apt install -y bc
 ```
 After the above mentioned libraries are installed successfully, we will proceed to install Tesseract.
+We will setup Tesseract 4.1.1 as this is the latest stable release at the time of creating this project.
+
+
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
