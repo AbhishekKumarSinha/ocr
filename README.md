@@ -29,6 +29,13 @@ sudo apt install -y bc
 After the above mentioned libraries are installed successfully, we will proceed to install Tesseract.
 We will setup Tesseract 4.1.1 as this is the latest stable release at the time of creating this project.
 
+Create a folder on your Home's directory and download Tesseract 4.1.1 using below command
+
+```bash
+wget https://github.com/tesseract-ocr/tesseract/archive/4.1.1.zip
+```
+
+
 
 
 ### License
