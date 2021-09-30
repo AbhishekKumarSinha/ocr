@@ -30,10 +30,23 @@ After the above mentioned libraries are installed successfully, we will proceed 
 We will setup Tesseract 4.1.1 as this is the latest stable release at the time of creating this project.
 
 Create a folder on your Home's directory and download Tesseract 4.1.1 using below command
-
 ```bash
 wget https://github.com/tesseract-ocr/tesseract/archive/4.1.1.zip
 ```
+
+This will download the 4.1.1.zip. Use below command to Unzip the contents.
+```bash
+unzip 4.1.1.zip
+```
+Above command will extract a folder with name tesseract-4.1.1.
+
+Go inside tesseract-4.1.1 folder using:
+```bash
+cd tesseract-4.1.1
+```
+And, then run below commands to build tesseract-4.1.1.
+
+
 
 
 
