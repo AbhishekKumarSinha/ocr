@@ -73,6 +73,8 @@ Inside tessdata folder there is a folder with name: tessdata.
 
 We need to place eng.traineddata and osd.traineddata inside the tessdata folder in order to make tesseract capable to read english text.
 
+These both traindata files can be downloaded from below url 
+[https://github.com/tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata)
 
 
 
