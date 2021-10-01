@@ -69,6 +69,10 @@ tesseract 4.1.1
  Found AVX
  Found SSE
 ```
+Inside tessdata folder there is a folder with name: tessdata.
+
+We need to place eng.traineddata and osd.traineddata inside the tessdata folder in order to make tesseract capable to read english text.
+
 
 
 
