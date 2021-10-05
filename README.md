@@ -76,7 +76,17 @@ We need to place eng.traineddata and osd.traineddata inside the tessdata folder 
 These both traindata files can be downloaded from below url 
 [https://github.com/tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata)
 
+
+We can copy the tessdata folder in /usr/local/share/
+
+And, can set TESSDATA_PREFIX to its path using below command.
+```bash
+export TESSDATA_PREFIX=/usr/local/share/tessdata/
+```
+
 Now let's move to the Coding part.
+
+
 
 ###### Compilation Command
 
