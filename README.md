@@ -78,6 +78,13 @@ These both traindata files can be downloaded from below url
 
 Now let's move to the Coding part.
 
+###### Compilation Command
+
+The program must be linked to the tesseract-ocr and leptonica libraries.
+
+```bash
+g++  *.cpp -llept -ltesseract
+```
 
 
 ### License
