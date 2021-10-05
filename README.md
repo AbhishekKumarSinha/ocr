@@ -76,6 +76,7 @@ We need to place eng.traineddata and osd.traineddata inside the tessdata folder 
 These both traindata files can be downloaded from below url 
 [https://github.com/tesseract-ocr/tessdata](https://github.com/tesseract-ocr/tessdata)
 
+Now let's move to the Coding part.
 
 
 
